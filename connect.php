@@ -7,6 +7,7 @@
    $user="root";
    $pass="";
    $db="e-outpass";
+   
    $connect=mysqli_connect($server,$user,$pass,$db);
    
 
